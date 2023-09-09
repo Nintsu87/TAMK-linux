@@ -1,0 +1,33 @@
+- Mita kutsu tekee? 
+	- lyhyesti sanottuna man-jarjestelmassa on ohjeet kaikkiin komentoihin joita komentorivilla voi kayttaa ohjelmittain
+
+- Millaiset osiot man-tulostuksesta nayttaa loytyvan?
+	- Name:komennon nimi ja sen mahdollinen selitys (mista se muodostuu: ls - list directory content)
+	- Synopsis: syntax
+	- Description: kuvaus mita komento tekee
+	- Options: vaihtoehdot
+	- Exit status
+	- Return values
+	- Errors
+	- Files
+	- Versions
+	- Examples
+	- Authors
+	- See also
+
+- Ymmarratko dokumentaation?
+	- En ole varma mita kysymyksella tarkoitetaan. En voi sanoa, etta ymmarran kaiken man-dokumentaation sisalta, mutta voin sanoa etta ymmarran mihin ja miksi sita kaytetaan ja kuinka sita kaytetaan
+
+- Loydatko saman informaation netin syovereista?
+	- netin syovereissa on useita tietokantoja, joihin on listattu man-dockareita
+
+- Millaisiin aihepiireihin man-sivut on jaettu?
+	- Executable programs or shell commands
+	- System calls 
+	- Library calls
+	- Special files
+	- File formats and conventions
+	- Games
+	- Miscellaneous
+	- System administration commands
+	- Kernel routines
