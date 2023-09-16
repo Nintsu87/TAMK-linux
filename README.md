@@ -22,4 +22,5 @@ Practice3:
 ----------
 - Task1: listing all command line arguments after the first one.
 - Task2: using execve() for simple command line ls
- 
+- Task3: use task2 as a child process
+- Task4: update task3 so the path and possible command for execve() comes from command line 
