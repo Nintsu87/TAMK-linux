@@ -18,3 +18,8 @@ Practice2:
 - Task3: getting to know gdb-debugger
 - Allocating an array from dynamic memory with C
 
+Practice3:
+----------
+- Task1: listing all command line arguments after the first one.
+- Task2: using execve() for simple command line ls
+ 
