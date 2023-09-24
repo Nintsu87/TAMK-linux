@@ -25,3 +25,12 @@ Practice3:
 - Task3: use task2 as a child process
 - Task4: update task3 so the path and possible command for execve() comes from command line 
 - Task5: update task4 so the program asks earlier command line arguments in a while loop
+
+Practice4:
+----------
+- Task1: practice pipe lines. I wrote the file with Word.
+- Task2: Using man, study about errno and perror().
+- Task3: Create program: Ask user one character and save it into created file.
+- Task4: Create program: Open the task3 file and print it to the screen.
+
+
