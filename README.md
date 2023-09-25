@@ -29,8 +29,8 @@ Practice3:
 Practice4:
 ----------
 - Task1: practice pipe lines. I wrote the file with Word.
-- Task2: Using man, study about errno and perror().
-- Task3: Create program: Ask user one character and save it into created file.
-- Task4: Create program: Open the task3 file and print it to the screen.
+- Task2: Using man, study about errno and perror() and create simple program using them.
+- Task3: Create program: Ask user one character and save it into assigned file.
+- Task4: Create program: Open the task3 file and print it to the screen. Test if the file has only 1 character.
 
 
