@@ -33,4 +33,8 @@ Practice4:
 - Task3: Create program: Ask user one character and save it into assigned file.
 - Task4: Create program: Open the task3 file and print it to the screen. Test if the file has only 1 character.
 
-
+Practice5:
+----------
+- Task1: play around with kill-command and study it from man (used Word for the file)
+- Task2: write short explanation about Minix
+- Task3: copy a code and run it without errors
