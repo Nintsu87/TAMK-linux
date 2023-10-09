@@ -38,3 +38,7 @@ Practice5:
 - Task1: play around with kill-command and study it from man (used Word for the file)
 - Task2: write short explanation about Minix
 - Task3: copy a code and run it without errors
+
+Practice6:
+----------
+- 5 essey tasks explaining what kind of problems threat handling can have and how to counter those. Wrote these in Finnish and with Word.
