@@ -42,3 +42,10 @@ Practice5:
 Practice6:
 ----------
 - 5 essey tasks explaining what kind of problems threat handling can have and how to counter those. Wrote these in Finnish and with Word.
+
+Practice7:
+----------
+- Task1: explain why does the number change in the code and suggest workaround for it.
+- Task2: repair the task1 problem with mutex by explaining it.
+- Task3: create program: create big array and print last 100 index in terminal. create "-s" option when run from cmd.
+- Task4: add threads to task 3 and study how does threads effect on program runtime.
