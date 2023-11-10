@@ -49,3 +49,8 @@ Practice7:
 - Task2: repair the task1 problem with mutex by explaining it.
 - Task3: create program: create big array and print last 100 index in terminal. create "-s" option when run from cmd.
 - Task4: add threads to task 3 and study how does threads effect on program runtime.
+
+Practice10:
+-----------
+- Task2: Explain memory segments. Written in Word.
+- Task3: create and use static and dynamic library c++. Raport written in Word.
