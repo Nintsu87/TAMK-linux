@@ -67,6 +67,7 @@ All are written in Finnish with Word.
 
 Practice10:
 -----------
+- Task1: Find out how to see how much memory usage is with pip. Written in Word.
 - Task2: Explain memory segments. Written in Word.
 - Task3: create and use static and dynamic library c++. Raport written with Word.
 - Task4: File system block size. Used Word.
