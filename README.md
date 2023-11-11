@@ -50,7 +50,24 @@ Practice7:
 - Task3: create program: create big array and print last 100 index in terminal. create "-s" option when run from cmd.
 - Task4: add threads to task 3 and study how does threads effect on program runtime.
 
+Practice8:
+----------
+All are written in Finnish with Word.
+- Task1: Scheduling reflection.
+- Task2: Explain scheduling terms.
+- Task3: Dining philosophers reflection.
+- Task4: Readers and Writers dilemma.
+
+Practice9:
+----------
+All are written in Finnish with Word.
+- Task1: Explain memory terms.
+- Task2: Swapping algorithm priority
+- Task3: Splitting virtual address.
+
 Practice10:
 -----------
 - Task2: Explain memory segments. Written in Word.
-- Task3: create and use static and dynamic library c++. Raport written in Word.
+- Task3: create and use static and dynamic library c++. Raport written with Word.
+- Task4: File system block size. Used Word.
+- Task5: Copy broken file from PowerPoint and make it work. Raport written with Word.
