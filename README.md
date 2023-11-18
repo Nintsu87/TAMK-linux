@@ -72,3 +72,12 @@ Practice10:
 - Task3: create and use static and dynamic library c++. Raport written with Word.
 - Task4: File system block size. Used Word.
 - Task5: Copy broken file from PowerPoint and make it work. Raport written with Word.
+
+Practice11:
+-----------
+All raports are made with Word.
+- Task1: explain the given mapping code and use it.
+- Task2: explain the given mapping code and use it.
+- Task3: Study and explain i-node example.
+- Task4: Play around with symbolic and hard links.
+- Task5: Play around with stat().
